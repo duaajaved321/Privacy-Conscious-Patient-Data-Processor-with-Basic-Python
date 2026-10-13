@@ -1,0 +1,31 @@
+PatientID,Name,Age,PhoneNumber,Diagnosis
+001,John Doe,45,555-0198,Diabetes
+002,Jane Smith,32,555-0234,Asthma
+003,Alice Johnson,,555-0371,Hypertension
+004,Bob Brown,150,555-0455,Flu
+005,Charlie Davis,28,invalid-phone,Sprained Ankle
+006,Diana Prince,30,555-0101,Migraine
+007,Evan Wright,55,555-0202,Arthritis
+008,Fiona Gallagher,-5,555-0303,Checkup
+009,George Martin,68,555-0404,
+010,Hannah Abbott,22,555-0505,Anemia
+011,Ian Malcolm,44,,Broken Arm
+012,Julia Child,88,555-0707,Hypertension
+013,Kevin Bacon,62,555-0808,High Cholesterol
+014,,35,555-0909,Insomnia
+015,Maria Garcia,40,555-1010,Diabetes
+016,Noah Smith,12,555-1111,Asthma
+017,Olivia Pope,37,555-1212,Stress
+018,Peter Parker,18,555-1313,Spider Bite
+019,Quinn Fabray,17,555-1414,Checkup
+020,Rachel Green,29,555-1515,Pregnancy
+021,Steve Rogers,105,555-1616,Fatigue
+022,Tony Stark,48,555-1717,Heart Condition
+023,Ursula Sea,55,5551818,Laryngitis
+024,Victor Stone,24,555-1919,Physical Therapy
+025,Wanda Maximoff,30,555-2020,Headache
+026,Xavier Charles,60,555-2121,Back Pain
+027,Yara Greyjoy,33,555-2222,Scurvy
+028,Zack Taylor,16,555-2323,Concussion
+029,Alan Turing,41,555-2424,Allergy
+030,Bruce Wayne,35,missing,Bruises
